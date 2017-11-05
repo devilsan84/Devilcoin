@@ -1,7 +1,7 @@
-Contributing to BitCore Core
+Contributing to Devilcoin coin
 ============================
 
-The BitCore Core project operates an open contributor model where anyone is
+The Devilcoin coin project operates an open contributor model where anyone is
 welcome to contribute towards development in the form of peer review, testing
 and patches. This document explains the practical process and guidelines for
 contributing.
@@ -157,11 +157,10 @@ where possible keep them short, uncomplex and easy to verify.
 "Decision Making" Process
 -------------------------
 
-The following applies to code changes to the BitCore Core project (and related
-projects such as libsecp256k1), and is not to be confused with overall BitCore
+The following applies to code changes to the Devilcoin coin project and is not to be confused with overall Devilcoin
 Network Protocol consensus changes.
 
-Whether a pull request is merged into BitCore Core rests with the project merge
+Whether a pull request is merged into Devilcoin coin rests with the project merge
 maintainers and ultimately the project lead.
 
 Maintainers will take into consideration if a patch is in line with the general
@@ -179,7 +178,7 @@ In general, all pull requests must:
   - where bugs are fixed, where possible, there should be unit tests
     demonstrating the bug and also proving the fix. This helps prevent regression.
 
-Patches that change BitCore consensus rules are considerably more involved than
+Patches that change Devilcoin consensus rules are considerably more involved than
 normal because they affect the entire ecosystem and so must be preceded by
 extensive mailing list discussions and have a numbered BIP. While each case will
 be different, one should be prepared to expend more time and effort than for
@@ -229,7 +228,7 @@ a worthwhile change based on the judgement of the maintainers.
 Release Policy
 --------------
 
-The project leader is the release manager for each BitCore Core release.
+The project leader is the release manager for each Devilcoin coin release.
 
 Copyright
 ---------
