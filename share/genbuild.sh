@@ -1,5 +1,5 @@
 #!/bin/sh
-# Copyright (c) 2012-2016 The BitCore Core developers
+# Copyright (c) Devilcoin developer
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
